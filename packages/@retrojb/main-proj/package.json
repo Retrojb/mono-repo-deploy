@@ -1,0 +1,15 @@
+{
+  "name": "main-proj",
+  "version": "0.0.0",
+  "description": "what should be imported as a depenedency",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:Retrojb/mono-repo-deploy.git"
+  },
+  "author": "retorjb",
+  "license": "MIT"
+}

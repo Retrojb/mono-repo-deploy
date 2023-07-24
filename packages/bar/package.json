@@ -1,0 +1,16 @@
+{
+  "name": "bar",
+  "version": "0.0.0",
+  "description": "Another subdependency of main-proj",
+  "main": "lib/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:Retrojb/mono-repo-deploy.git"
+  },
+  "author": "retrojb",
+  "license": "MIT"
+}

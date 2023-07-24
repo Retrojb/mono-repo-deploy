@@ -1,0 +1,15 @@
+{
+  "name": "@retrojb/mono-repo-deploy",
+  "version": "1.0.0",
+  "description": "Monorepo root",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ]
+}
